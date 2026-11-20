@@ -1,1 +1,1 @@
-#Study Planner
+#Study Planner(SDU edition)
